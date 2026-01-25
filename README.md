@@ -1,12 +1,12 @@
 # 📚 Aplikasi Kamus Dayak Ahe / Kanayatn 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/nelsenniko/Kamus-Dayak-Ahe?style=for-the-badge&color=gold)
-![GitHub forks](https://img.shields.io/github/forks/nelsenniko/Kamus-Dayak-Ahe?style=for-the-badge&color=blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/racikborneo/Kamus-Dayak-Ahe?style=for-the-badge&color=gold)
+![GitHub forks](https://img.shields.io/github/forks/racikborneo/Kamus-Dayak-Ahe?style=for-the-badge&color=blue)
 ![License](https://img.shields.io/badge/License-Open%20Source-brightgreen?style=for-the-badge)
 
 **Kamus Digital Dayak Kanayatn / Ahe** adalah proyek *open-source* yang didedikasikan untuk melestarikan dan mendokumentasikan bahasa daerah melalui teknologi modern. Dibangun agar ringan, cepat, dan dapat diakses oleh siapa saja, di mana saja.
 
-🚀 **[Lihat Demo Live](https://nelsenniko.github.io/Kamus-Dayak-Ahe/)**
+🚀 **[Lihat Demo Live](https://racikborneo.github.io/Kamus-Dayak-Ahe/)**
 
 ---
 
@@ -75,7 +75,7 @@ Proyek ini bersifat **Open Source**. Anda bebas menggunakan, memodifikasi, dan m
 *Web Developer | IT Enthusiast | Cultural Preservationist*
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285328736706)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelsenniko)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/racikborneo)
 
 ---
 
