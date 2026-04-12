@@ -9,7 +9,7 @@ const installBtn = document.getElementById('installBtn');
 let kamus = { "id-dayak": {}, "dayak-id": {} };
 let deferredPrompt;
 
-// Initialize
+/* Initialize
 async function initApp() {
     try {
         const res = await fetch('kamus_dayak.json');
@@ -19,6 +19,28 @@ async function initApp() {
         console.error("Kamus gagal dimuat");
     }
 }
+*/
+let kamus = [];
+
+async function initApp() {
+    try {
+        const res = await fetch('https://raw.githubusercontent.com/racikborneo/kd/main/data-max.json');
+
+        if (!res.ok) {
+            throw new Error(`HTTP error! ${res.status}`);
+        }
+
+        const data = await res.json();
+
+        console.log(data); // cek struktur dulu
+
+        kamus = data; // atau data.kamus (tergantung isi JSON)
+
+    } catch (e) {
+        console.error("Kamus gagal dimuat:", e);
+    }
+}
+
 
 function createBubble(text, sender) {
     const div = document.createElement('div');
